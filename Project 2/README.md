@@ -1,5 +1,5 @@
 # SpiceGirls
-##Project Description
+## Project Description
 SpringBook is a social network where everyone is friends! You can view posts from your feed, make posts of your own, and search and view your friends' profiles.
 
 ## Technologies Used
