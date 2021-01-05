@@ -1,25 +1,39 @@
 # SpiceGirls
-Project Description
+##Project Description
 SpringBook is a social network where everyone is friends! You can view posts from your feed, make posts of your own, and search and view your friends' profiles.
 
-Technologies Used
-Spring Boot
-Hibernate
-JUnit
-Angular
-AWS S3
-AWS RDS
-Jenkins
-Features
-List of features ready and TODOs for future development
+## Technologies Used
 
-Log in/out
-Register new user
-Make posts
-View posts
-Update profile
-Search for friends' profiles
-View others' profiles
+* Spring Boot
+* Hibernate
+* JUnit
+* Angular
+* AWS S3
+* AWS RDS
+* Jenkins
+
+## Features
+
+List of features ready and TODOs for future development
+* Log in/out
+* Register new user
+* Make posts
+* View posts
+* Update profile
+* Search for friends' profiles
+* View others' profiles
+
+## Contributors
+
+- Hannah Brown
+- Marissa Beckman
+- Anna Carlson
+- Dezmanique Martin
+- Sandra Omoruyi
+
+## License
+
+SpringBook is licensed under the MIT License
 
 
 
